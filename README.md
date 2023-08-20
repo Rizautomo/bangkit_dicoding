@@ -5,4 +5,4 @@ Test awal untuk membangun alur fitur login yang menjadi bahan pembelajaran pada 
 Alur fitur login: 
 1. Memasukkan email dan password
 2. memvalidasi masukan
-3. menampilkan halaman pertama dari web
+3. menampilkan halaman home
